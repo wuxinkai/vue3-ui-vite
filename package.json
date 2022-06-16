@@ -1,0 +1,23 @@
+{
+  "name": "vue3dome1",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-plus": "^1.0.2-beta.28",
+    "vue": "^3.0.4",
+    "vue-router": "^4.0.11",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "mockjs": "^1.1.0",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.4",
+    "vite": "^1.0.0-rc.13",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  }
+}
